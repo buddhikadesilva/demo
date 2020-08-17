@@ -7,10 +7,24 @@
       "cartId":1
     },
     {
-      "orderID":1,
+      "orderID":2,
       "deliveryAddressId":1,
       "status":"dispatched",
       "cartId":1
     }
+    ],
+  "deliveries":[
+      {
+        "orderID":1,
+        "deliveryLocationLat":82.35643,
+        "deliveryLocationLon":79.24143,
+        "deliveryDateTime":"YYYY/MM/DD hh:ss"
+      },
+      {
+        "orderID":2,
+        "deliveryLocationLat":82.35643,
+        "deliveryLocationLon":79.24143,
+        "deliveryDateTime":"YYYY/MM/DD hh:ss"
+      }
     ]
 }
