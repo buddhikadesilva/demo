@@ -11,7 +11,7 @@
       "orderID":3,
       "title":"Glossary Order",
       "deliveryAddressId":1,
-      "status":"dispatched",
+      "status":"delivered",
       "cartId":1
     },
     {
