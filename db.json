@@ -6,7 +6,7 @@
       "deliveryAddressId":1,
       "status":"dispatched",
       "cartId":1
-        "deliveryDateTime":"YYYY/MM/DD hh:ss"
+      "deliveryDateTime":"YYYY/MM/DD hh:ss"
     },
     {
       "orderID":3,
@@ -14,7 +14,7 @@
       "deliveryAddressId":1,
       "status":"delivered",
       "cartId":1
-        "deliveryDateTime":"YYYY/MM/DD hh:ss"
+      "deliveryDateTime":"YYYY/MM/DD hh:ss"
     },
     {
       "orderID":4,
@@ -22,7 +22,7 @@
       "deliveryAddressId":1,
       "status":"dispatched",
       "cartId":1
-        "deliveryDateTime":"YYYY/MM/DD hh:ss"
+      "deliveryDateTime":"YYYY/MM/DD hh:ss"
     },
     {
       
@@ -30,7 +30,7 @@
       "deliveryAddressId":1,
       "status":"dispatched",
       "cartId":1
-        "deliveryDateTime":"YYYY/MM/DD hh:ss"
+      "deliveryDateTime":"YYYY/MM/DD hh:ss"
     }
     ],
    
