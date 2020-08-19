@@ -1,52 +1,4 @@
 {
-   "ordered":[
-    {
-      "orderID":1,
-      "itemID":1,
-      "qty":2,
-    },
-     {
-      "orderID":1,
-      "itemID":2,
-      "qty":3,
-    },
-     {
-      "orderID":1,
-      "itemID":3,
-      "qty":2,
-    },
-     {
-      "orderID":5,
-      "itemID":1,
-      "qty":2,
-    },
-     {
-      "orderID":3,
-      "itemID":1,
-      "qty":2,
-    },
-     {
-      "orderID":3,
-      "itemID":4,
-      "qty":2,
-    },
-     {
-      "orderID":3,
-      "itemID":3,
-      "qty":2,
-    },
-     {
-      "orderID":4,
-      "itemID":2,
-      "qty":3,
-    },
-     {
-      "orderID":4,
-      "itemID":1,
-      "qty":1,
-    }
- 
-  ],
    "orders":[
     {
       "orderID":1,
@@ -150,5 +102,53 @@
         "deliveryLocationLon":79.24143,
         "deliveryDateTime":"YYYY/MM/DD hh:ss"
       }
-    ]
+    ],
+   
+   "ordered":[
+    {
+      "orderID":1,
+      "itemID":1,
+      "qty":2,
+    },
+     {
+      "orderID":1,
+      "itemID":2,
+      "qty":3,
+    },
+     {
+      "orderID":1,
+      "itemID":3,
+      "qty":2,
+    },
+     {
+      "orderID":5,
+      "itemID":1,
+      "qty":2,
+    },
+     {
+      "orderID":3,
+      "itemID":1,
+      "qty":2,
+    },
+     {
+      "orderID":3,
+      "itemID":4,
+      "qty":2,
+    },
+     {
+      "orderID":3,
+      "itemID":3,
+      "qty":2,
+    },
+     {
+      "orderID":4,
+      "itemID":2,
+      "qty":3,
+    },
+     {
+      "orderID":4,
+      "itemID":1,
+      "qty":1,
+    }
+  ]
 }
