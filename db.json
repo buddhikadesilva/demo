@@ -6,7 +6,7 @@
       "deliveryAddressId":1,
       "status":"dispatched",
       "cartId":1
-      "deliveryDateTime":"2020/04/12 08:05"
+
     },
     {
       "orderID":3,
@@ -14,7 +14,7 @@
       "deliveryAddressId":1,
       "status":"delivered",
       "cartId":1
-      "deliveryDateTime":"2020/04/12 08:05"
+
     },
     {
       "orderID":4,
@@ -22,7 +22,7 @@
       "deliveryAddressId":1,
       "status":"dispatched",
       "cartId":1
-      "deliveryDateTime":"2020/04/12 08:05"
+
     },
     {
       
@@ -30,7 +30,7 @@
       "deliveryAddressId":1,
       "status":"dispatched",
       "cartId":1
-      "deliveryDateTime":"2020/04/12 08:05"
+
     }
     ],
 
