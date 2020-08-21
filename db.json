@@ -3,25 +3,25 @@
 
 {
   "orderID":1,
-  "status":"dispatched"
+  "status":"dispatched",
   "arrivalTime":"2020/09/04 08:03"
   
 },
 {
   "orderID":3,
-  "status":"delivered"
+  "status":"delivered",
   "arrivalTime":"2020/09/01 11:40"
   
 },
 {
   "orderID":4,
-  "status":"dispatched"
+  "status":"dispatched",
   "arrivalTime":"2020/09/20 07:25"
   
 },
 {
   "orderID":5,
-  "status":"dispatched"
+  "status":"dispatched",
   "arrivalTime":"2020/08/08 09:55"
   
 }
