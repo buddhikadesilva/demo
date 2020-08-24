@@ -198,5 +198,31 @@
       "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
     }
  
-  ]
+  ],
+  "deliveries":[
+      {
+        "orderID":1,
+        "deliveryLocationLat":82.35643,
+        "deliveryLocationLon":79.24143,
+        "deliveryDateTime":"2020/09/04 08:04"
+      },
+      {
+        "orderID":2,
+        "deliveryLocationLat":82.35643,
+        "deliveryLocationLon":79.24143,
+        "deliveryDateTime":"2020/04/04 03:02"
+      },
+      {
+        "orderID":3,
+        "deliveryLocationLat":82.35643,
+        "deliveryLocationLon":79.24143,
+        "deliveryDateTime":"2020/02/04 01:01"
+      },
+      {
+        "orderID":5,
+        "deliveryLocationLat":82.35643,
+        "deliveryLocationLon":79.24143,
+        "deliveryDateTime":"2020/04/04 01:32"
+      },
+    ]
 }
