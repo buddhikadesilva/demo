@@ -185,35 +185,29 @@
  
   ],
   "deliveries":[
-      {
-        "orderID":1,
-        "deliveryLocationLat":6.909158,
-        "deliveryLocationLon":79.865922,
-        "deliveryDateTime":"2020/09/04 08:04"
-      },
-      {
-        "orderID":2,
-        "deliveryLocationLat":6.947639,
-        "deliveryLocationLon":79.24143,
-        "deliveryDateTime":"2020/04/04 03:02"
-      },
-      {
-        "orderID":3,
-        "deliveryLocationLat":6.947639,
-        "deliveryLocationLon":79.897534,
-        "deliveryDateTime":"2020/02/04 01:01"
-      },
-      {
-        "orderID":4,
-        "deliveryLocationLat":7.394738,
-        "deliveryLocationLon":80.692264,
-        "deliveryDateTime":"2020/02/04 01:01"
-      },
-      {
-        "orderID":5,
-        "deliveryLocationLat":82.35643,
-        "deliveryLocationLon":79.24143,
-        "deliveryDateTime":"2020/04/04 01:32"
-      }
-    ]
+		{
+			orderId:"1001",
+			customerName:"Nimal",
+			customerMobile:"077123456",
+			deliveryAddress:"Colombo4"
+			latitude:79.454234
+			longitude:80.34534534
+		},
+		{
+			orderId:"1002",
+			customerName:"Kamal",
+			customerMobile:"077564321",
+			deliveryAddress:"Colombo3"
+			latitude:79.4542565
+			longitude:80.3453453223
+		},
+		{
+			orderId:"1003",
+			customerName:"Saman",
+			customerMobile:"0774534645",
+			deliveryAddress:"Colombo2"
+			latitude:79.4535454
+			longitude:80.3453576
+		},
+	]
 }
